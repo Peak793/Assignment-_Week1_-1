@@ -42,13 +42,7 @@ void rectangleArea(int width, int height)
 					printf("  ");
 				}
 			}
-			printf(" %d", i);
 			printf("\n");
-		}
-		printf("\n");
-		for (int k = 1; k <= width; k++)
-		{
-			printf("%d ",k);
 		}
 	}
 }
